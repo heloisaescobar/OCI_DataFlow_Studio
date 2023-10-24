@@ -22,7 +22,7 @@ $ echo "# OCI_DataFlow_Studio" >> README.md
 
 Abaixo temos a imagem do retorno esperado:
 
-![git init](./images/image2.png)
+![criação README.md](./images/image2.png)
 
 Após a execução do commando acima, podemos notar que irá surgir o arquivo **README.md** no diretório local.
 
@@ -34,7 +34,7 @@ $ git status
 
 Abaixo temos a imagem do retorno esperado e podemos notar que temos um novo arquivo que foi criado nos passos anteriores:
 
-![git init](./images/image3.png)
+![git status](./images/image3.png)
 
 * Show! Chegamos em um ponto importante que é começar a preparar o ambiente para levarmos nossas alterações para o github. Lembrando que até o momento todas as alterações que realizamos foi apenas no OCI Data Science. Para isso, vamos executar os comandos abaixo:
 
@@ -51,7 +51,7 @@ $ git commit -m "MENSAGEM DO QUE É SEU COMMIT"
 
 Abaixo temos a imagem do retorno esperado:
 
-![git init](./images/image4.png)
+![git commit](./images/image4.png)
 
 * Realizamos as configuração e adicionamos a mensagem do que estamos fazendo o commit, agora vamos adicionar a "branch" de origem (Que será nosso github). Para isso executar o comando abaixo:
 
@@ -62,7 +62,7 @@ $ git remote -v
 
 Abaixo temos a imagem do retorno esperado:
 
-![git init](./images/image5.png)
+![git remote](./images/image5.png)
 
 * Chegou o momento esperado, vamos levar o dados efetivamente para o github; Para isso vamos executar o commando abaixo:
 
@@ -75,7 +75,7 @@ $ git push -u origin main
 
 * Criado o token e passado as informações corretamente, você terá abaixo o retorno esperado:
 
-![git init](./images/image6.png)
+![git push](./images/image6.png)
 
 
 Parabéns você já pode verificar na página do GitHub o arquivo que você publicou!!
