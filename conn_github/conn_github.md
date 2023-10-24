@@ -70,7 +70,7 @@ Abaixo temos a imagem do retorno esperado:
 $ git push -u origin main
 ```
 
-* Nesse momento a execução do comando anterior está aguardando você passar duas informações importantes **Username** e **Password**. O username será o email que você possui a conta no github e o password será necessário você criar um token. Para gerar o token recomendo você ![clicar aqui!](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+* Nesse momento a execução do comando anterior está aguardando você passar duas informações importantes **Username** e **Password**. O username será o email que você possui a conta no github e o password será necessário você criar um token. Para gerar o token recomendo você [clicar aqui!](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
 
 * Criado o token e passado as informações corretamente, você terá abaixo o retorno esperado:
